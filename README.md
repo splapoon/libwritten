@@ -1,3 +1,3 @@
 # Written.h
  A library for text-based games in C.
-![tease](src/Screenshot (100).png)
+![tease](https://github.com/GlassEye0/glasseye0.github.io/raw/master/Screenshot(100).png)
