@@ -7,7 +7,7 @@ OH NO I JUST LEAKED THE NAME IDK
 
 # Docs
 Okay syntax is pretty simple, I'll keep on adding to this doc as i do so
-DISCLAIMER: for the time being this library is only for linux or @microsoft vscode debugging terminal.
+oh and @microsoft vscode was used to make this and @jmeubank tdmgcc.
 
 Okay so this is pretty simple, we have a few commands.
 
