@@ -5,7 +5,7 @@ OH NO I JUST LEAKED THE NAME IDK
 
 ---
 
-# Docs
+# Docs (DEPRECATED)
 Okay syntax is pretty simple, I'll keep on adding to this doc as i do so
 oh and @microsoft vscode was used to make this and @jmeubank tdmgcc.
 
