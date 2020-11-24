@@ -24,3 +24,7 @@ keep *libwritten.h* and *libwritten.c* in the same direcotry
 
 to compile using gcc
 gcc -o *your executable* *your.c* libwritten.h
+
+# license
+see license for more
+![license](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
