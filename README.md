@@ -26,5 +26,5 @@ to compile using gcc
 gcc -o *your executable* *your.c* libwritten.h
 
 # license
-see license for more
-![license](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
+see license
+cc by nc sa 4.0
