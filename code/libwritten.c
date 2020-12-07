@@ -8,6 +8,7 @@
 
 char *nwline;
 FILE* temp;
+FILE* temp2;
 char *str;
 int printred(int isBold, int isNewl)
 {
@@ -184,8 +185,19 @@ void opentxt(char *name, int shouldCBYC, int speed)
 }
 
 
-
-
-
-
-
+/*void writetxt(char *name, char *data)
+{
+    temp2 = fopen(name, "w"); 
+    if (temp == NULL) 
+    { 
+        printf("Cannot open file \n"); 
+        exit(0); 
+    } 
+  
+    // Read contents from file 
+    str = fgetc(temp2);
+    fprintf(temp2,"%s",data);
+    
+    fclose(temp2); 
+    return 0; 
+}*/

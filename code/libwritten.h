@@ -13,4 +13,5 @@ int printreset(int isNewl);
 void night(int delay);
 void cbycprint(char *toWrite, int speed);
 void opentxt(char *name, int shouldCBYC, int speed);
+//void writetxt(char *name, char *data);
 #endif

@@ -47,7 +47,9 @@
     printf("Red");
     printblue(1, 0);
     cbycprint("Bull",15);
-    opentxt("lonk.txt");
+    opentxt("lonk.txt", 1, 13);
+    opentxt("lonk.txt", 0, 13);
+    //writetxt("hehehe.txt", "Hi i just wrote some data!");
     getchar();
     return 0;
   }
